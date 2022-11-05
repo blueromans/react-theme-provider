@@ -1,0 +1,16 @@
+[ignore]
+.*/lib/.*
+
+[include]
+
+[libs]
+
+[options]
+emoji=true
+
+munge_underscores=true
+
+module.name_mapper='^@blueromans/react-theme-provider' -> '<PROJECT_ROOT>/src'
+
+[version]
+^0.94.0
