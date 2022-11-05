@@ -1,6 +1,3 @@
-[![Version][version-badge]][package]
-[![MIT License][license-badge]][license]
-
 ## About
 
 `@blueromans/react-theme-provider` is a set of utilities that help you create your own theming system in few easy steps.
