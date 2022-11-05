@@ -12,13 +12,7 @@
             "not dead"
           ]
         },
-        "exclude": [
-          "transform-typeof-symbol",
-          "es6.object.assign",
-          "es6.object.keys",
-          "es6.array.iterator",
-          "web.dom.iterable"
-        ],
+       
         "loose": true
       }
     ],
